@@ -2,6 +2,14 @@
 
 install module
 
-pip install requests
+pip install requests #for temperature file
 
-pip install beautifulsoup
+pip install beautifulsoup #for temperature file
+
+pip install pyttsx3 #for speak file
+
+pip install SpeechRecognition #for speechrecognition file
+
+download file and make folder pest files install modules and  Run. 
+
+ENJOY
