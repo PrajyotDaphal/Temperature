@@ -1,0 +1,7 @@
+pip install requests #for temperature file
+
+pip install beautifulsoup #for temperature file
+
+pip install pyttsx3 #for speak file
+
+pip install SpeechRecognition #for speechrecognition file
